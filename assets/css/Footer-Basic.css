@@ -1,7 +1,11 @@
 .footer-basic {
   padding: 40px 0;
-  background-color: #ffffff;
+  background-color: rgb(247,247,247);
   color: #4b4c4d;
+  max-width: 97%;
+  margin: auto;
+  border-radius: 15px;
+  margin-bottom: 20px;
 }
 
 .footer-basic ul {
