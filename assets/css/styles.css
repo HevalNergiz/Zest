@@ -503,3 +503,67 @@ body {
   }
 }
 
+.cardlist {
+  font-size: 0.9em;
+}
+
+.cardcol {
+}
+
+.cardbutton {
+  width: 100%;
+  border-bottom-right-radius: 19px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+
+.cardheader {
+  font-family: Montserrat, sans-serif;
+  margin-top: 19px;
+  font-size: 1.9em;
+  color: rgb(0,0,0);
+}
+
+.cardlowerheader {
+  font-family: Montserrat, sans-serif;
+  font-size: 1.7em;
+  max-width: 95%;
+  margin: auto;
+  color: rgb(33,37,41);
+}
+
+.cardlistdiv {
+  padding-top: 12px;
+  padding-bottom: 12px;
+}
+
+.cardprice {
+  margin-bottom: 0px;
+  text-align: center;
+  font-size: 1.3em;
+  font-weight: bold;
+}
+
+.cardicon {
+  font-size: 80px;
+  margin: auto;
+  text-align: center;
+  font-weight: 800;
+  padding-top: 3px;
+}
+
+.carddiv {
+  background: rgba(242,242,242,0.68);
+  border-radius: 40px;
+  margin: auto;
+  margin-top: 30px;
+  border: 9px solid rgba(255,255,255,0.85);
+}
+
+.listlink {
+  color: #080808;
+  text-decoration: none;
+  font-weight: 500;
+}
+
