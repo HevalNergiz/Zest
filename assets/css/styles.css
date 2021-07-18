@@ -44,6 +44,7 @@
   height: 50px;
   padding-top: 12px;
   font-family: Montserrat, sans-serif;
+  padding-bottom: 12px;
 }
 
 .btn-check:active + .btn-primary, .btn-check:checked + .btn-primary, .btn-primary.active, .btn-primary:active, .show > .btn-primary.dropdown-toggle {
