@@ -769,3 +769,25 @@ a:hover {
   justify-content: space-between;
 }
 
+.musicbox {
+  margin: auto;
+  text-align: center;
+  padding: 15px 0px;
+  margin-top: 25px;
+  margin-bottom: 50px;
+  background: #f7f7f7;
+  border-radius: 20px;
+}
+
+@media (max-width: 767px) {
+  .musicbox {
+    max-width: 90%;
+  }
+}
+
+@media (min-width: 768px) {
+  .musicbox {
+    max-width: 60%;
+  }
+}
+
