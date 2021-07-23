@@ -772,7 +772,7 @@ a:hover {
 .musicbox {
   margin: auto;
   text-align: center;
-  padding: 15px 0px;
+  padding: 20px 0px;
   margin-top: 25px;
   margin-bottom: 50px;
   background: #f7f7f7;
@@ -788,6 +788,18 @@ a:hover {
 @media (min-width: 768px) {
   .musicbox {
     max-width: 60%;
+  }
+}
+
+@media (max-width: 767px) {
+  .musicc {
+    width: 90%;
+  }
+}
+
+@media (min-width: 768px) {
+  .musicc {
+    width: 70%;
   }
 }
 
