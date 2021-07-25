@@ -700,11 +700,6 @@ a:hover {
   text-decoration: none!important;
 }
 
-@media (min-width: 361px) {
-  .headerheading {
-  }
-}
-
 .sosyalsection {
   padding-top: 20px;
   max-width: clamp(0px, 85%, 1200px);
@@ -738,9 +733,17 @@ a:hover {
   }
 }
 
+@media (min-width: 1400px) {
+  .socialheading {
+    font-size: 50px;
+    margin-top: 0px;
+  }
+}
+
 @media (min-width: 992px) {
   .socialheading {
     font-size: 50px;
+    margin-top: 80px;
   }
 }
 
